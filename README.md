@@ -11,6 +11,6 @@ This is a simple Banking System program I made using Python basics and used sqla
 
 1. Clone the repository
 2. Launch the terminal and type "pip install -r requirements.txt"
-3. Run the program using "python todolist.py"
+3. Run the program using "python banking.py"
 
 Suggestions are most welcome and hope you like it!!
